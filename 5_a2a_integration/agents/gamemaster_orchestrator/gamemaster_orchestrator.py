@@ -85,7 +85,7 @@ class StoryOutput(BaseModel):
 
 try:
     # TODO: Create MCP Client for dice rolling service
-    # Initialize MCPClient with a lambda that returns streamablehttp_client("http://localhost:8080/mcp")
+    # Initialize MCPClient with a lambda that returns streamablehttp_client("http://localhost:8002/mcp")
     mcp_client = None
 
     # TODO: Create the A2A client with the A2AClientToolProvider and pass the list of the known agent urls
