@@ -1,5 +1,10 @@
 # Once Upon Agentic AI: A Developer's Epic Journey into the Strands SDK
 
+> 📚 **This is my personal work-through of AWS's Strands SDK workshop.**
+> I'm learning the Strands framework by completing the exercises in each
+> chapter. This repo is forked from
+> [aws-samples/sample-once-upon-agentic-ai](https://github.com/aws-samples/sample-once-upon-agentic-ai) —
+> credit for the workshop design and content goes to the original AWS team.
 
 ![Header Image](images/home.png)
 
