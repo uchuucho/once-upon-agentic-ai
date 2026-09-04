@@ -90,7 +90,7 @@ def create_agent(context_id: str) -> Agent:
 # TODO: Create an A2AServer instance with:
 # - agent_factory: The create_agent function defined above
 # - port: 8000 (Rules Agent port)
-a2a_server = A2AServer(agent_factory=create_agent)
+a2a_server = A2AServer(agent_factory=create_agent, port=8000)
 
 if __name__ == "__main__":
     # TODO: Start the A2A server
